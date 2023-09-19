@@ -2,13 +2,13 @@
 <h3 align="center">A passionate developer from India</h3>
 
 <img align = "right" alt = "Coder" width = "400px" src = "https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
-- 🌱 I'm currently deep diving into **Frameworks and Cloud technologies**
+- 🌱 I'm currently deep diving into **Microservices and Cloud technologies**
 
 - 👯 I'm eager to collaborate on compelling **Open Source Projects**.
 
 - 👨‍💻  You'll find a range of projects on my [GitHub profile, some public and others private].
 
-- 💬 Let's chat about all things CNCF, JavaScript(ReactJs , NodeJs), and Java( Spring Boot )!
+- 💬 Let's delve into Cloud Native, JavaScript(ReactJs , NodeJs), and Java(Spring Boot)! 🚀 
 
 - 📫 Feel free to drop me a line at **a.amitnandan@gmail.com**.
 
