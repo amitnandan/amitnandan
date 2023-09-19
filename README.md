@@ -2,15 +2,15 @@
 <h3 align="center">A passionate developer from India</h3>
 
 <img align = "right" alt = "Coder" width = "400px" src = "https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
-- 🌱 I’m currently learning **Frameworks , Cloud**
+- 🌱 I'm currently deep diving into **Frameworks and Cloud technologies**
 
-- 👯 I’m looking to collaborate on **Open Source Project**
+- 👯 I'm eager to collaborate on compelling **Open Source Projects**.
 
-- 👨‍💻 All of my projects are available at [GitHub and Some are Private]
+- 👨‍💻  You'll find a range of projects on my [GitHub profile, some public and others private].
 
-- 💬 Ask me about **Cloud , react , Spring Boot**
+- 💬 Let's chat about all things CNCF, JavaScript(ReactJs , NodeJs), and Java( Spring Boot )!
 
-- 📫 How to reach me **a.amitnandan@gmail.com**
+- 📫 Feel free to drop me a line at **a.amitnandan@gmail.com**.
 
 - ⚡ Fun fact **Google's First Tweet was in binary.**
 
